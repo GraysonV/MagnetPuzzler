@@ -1,7 +1,7 @@
 # Magnet Puzzler
 ## By Grayson Verspeek
 ### Info
-Magnet Puzzler is a game about a magnet and a puzzle. It was forged in the depths of Code Ninjas Bridgwater (Winnipeg MB, Canada) for the specific purpose of creating a game for Black Belt and involves matching four colored projectiles together to score points.
+Magnet Puzzler is a game about a magnet and a puzzle. It was forged in the depths of Code Ninjas for the specific purpose of creating a game for Black Belt and involves matching four colored projectiles together to score points.
 
 ### Why a puzzle game?
 You ask me. It's not even my favorite genre. I do really like playing games like Tetris™ when I'm bored though.
