@@ -6,6 +6,9 @@ Magnet Puzzler is a game about a magnet and a puzzle. It was forged in the depth
 ### Why a puzzle game?
 You ask me. It's not even my favorite genre. I do really like playing games like Tetris™ when I'm bored though.
 
+### Play online?
+You can go to the Itch.io page for the game to play it in the web browser. [https://grayson-v.itch.io/magnet-puzzler](https://grayson-v.itch.io/magnet-puzzler)
+
 ### Downloads
 - [Windows (64 Bit)](https://drive.google.com/file/d/1ojPRRKw1Hv_PyEUh31K6BJDMNiddhGpg/view?usp=share_link)
 - [MacOS (64 Bit)](https://drive.google.com/file/d/1y7gEU0LsfRBQ9MdTe9K6laJ5NVJrJdyG/view?usp=share_link)
