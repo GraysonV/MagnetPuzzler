@@ -10,7 +10,7 @@ You ask me. It's not even my favorite genre. I do really like playing games like
 You can go to the Itch.io page for the game to play it in the web browser: [https://grayson-v.itch.io/magnet-puzzler](https://grayson-v.itch.io/magnet-puzzler)
 
 ### 02/05/2025 Update: NO MORE AI LETS FLIPPING GOOOO!!!
-When I first made this game back in 2023, AI-Generated art imagery was this crazy new thing that I thought offered a bunch of interesting applications when it came to making game assets and thought that the surreal look that Stable Diffusion generated was a very interesting style I wanted to incorporate into the background images of the game. Now in 2025, I want nothing to do with generative AI so I've made a new version of Magnet Puzzler that replaces the backgrounds with custom 90's-esque CGI I made myself in Blender. Does it capture the same vibe? That's debatable but at least it's 1000%  more human than the original images.
+When I first made this game back in 2023, AI-Generated imagery was this crazy new thing that I thought offered a bunch of interesting applications when it came to making game assets and thought that the surreal look that Stable Diffusion generated was a very interesting style I wanted to incorporate into the background images of the game. Now in 2025, I want nothing to do with generative AI so I've made a new version of Magnet Puzzler that replaces the backgrounds with custom 90's-esque CGI I made myself in Blender. Does it capture the same vibe? That's debatable but at least it's 1000%  more human than the original images.
 
 ### Downloads 
 - [Windows, Mac, Linux](https://grayson-v.itch.io/magnet-puzzler)
