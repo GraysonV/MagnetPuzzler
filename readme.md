@@ -9,9 +9,6 @@ You ask me. It's not even my favorite genre. I do really like playing games like
 ### Play online?
 You can go to the Itch.io page for the game to play it in the web browser: [https://grayson-v.itch.io/magnet-puzzler](https://grayson-v.itch.io/magnet-puzzler)
 
-### 02/05/2025 Update: No More AI
-- Removed the AI imagery from the game and replaced it with human-made equivalents.
-
 ### Downloads 
 - [Windows, Mac, Linux](https://grayson-v.itch.io/magnet-puzzler)
 - [Source Code](https://github.com/GraysonV/MagnetPuzzler/raw/main/MagnetPuzzler110.unitypackage)
