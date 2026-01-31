@@ -14,7 +14,6 @@ You can go to the Itch.io page for the game to play it in the web browser: [http
 - [Source Code](https://github.com/GraysonV/MagnetPuzzler/raw/main/MagnetPuzzler110.unitypackage)
 
 ### Downloads (Legacy 1.0.2 Version)
-These are downloads to the dumb old AI-riddled version from 2023.
 - [Windows (64 Bit)](https://drive.google.com/file/d/1ojPRRKw1Hv_PyEUh31K6BJDMNiddhGpg/view?usp=share_link)
 - [MacOS (64 Bit)](https://drive.google.com/file/d/1y7gEU0LsfRBQ9MdTe9K6laJ5NVJrJdyG/view?usp=share_link)
 - [Linux](https://drive.google.com/file/d/16dMaYUAjCBZL5B5_bMIJaHpUYodB5JlY/view?usp=share_link)
